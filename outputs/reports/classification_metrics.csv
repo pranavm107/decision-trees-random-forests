@@ -1,0 +1,5 @@
+Model,Test Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Baseline Decision Tree,0.8033,0.8182,0.8182,0.8182,0.8019
+Tuned Decision Tree,0.7213,0.75,0.7273,0.7385,0.8328
+Baseline Random Forest,0.7541,0.7647,0.7879,0.7761,0.8615
+Tuned Random Forest,0.7869,0.7778,0.8485,0.8116,0.8831
